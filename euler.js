@@ -15,4 +15,4 @@ for (let i = 0; i <= accuracy; i++) {
   e += 1/factorial(i);
 }
 
-return e;
+console.log(e);
