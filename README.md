@@ -19,4 +19,4 @@ obviously just changes how many times it loops through the formula).
       e += 1/factorial(i);
     }
 
-    return e;
+    console.log(e);
